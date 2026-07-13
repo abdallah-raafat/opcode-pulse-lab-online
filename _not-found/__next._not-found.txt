@@ -2,4 +2,4 @@
 2:I[59385,["/opcode-pulse-lab-online/_next/static/chunks/1ivr6blg-9j_p.js"],"default"]
 3:I[4675,["/opcode-pulse-lab-online/_next/static/chunks/1ivr6blg-9j_p.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"a_SgLuYul4y_zJYYvQdmo"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"9SGN6V4HFM9yVqUaKY8fH"}
