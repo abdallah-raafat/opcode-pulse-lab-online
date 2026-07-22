@@ -1,2 +1,2 @@
-:HL["/opcode-pulse-lab-online/_next/static/chunks/18hksyr58-_vz.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"privacy","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Y1YDyFwoTukwzwSy5i450"}
+:HL["/opcode-pulse-lab-online/_next/static/chunks/2zsewi7jb-xta.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"privacy","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"pq0Hn7sTCFtSPQt4NeJgl"}
